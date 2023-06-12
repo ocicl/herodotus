@@ -1,0 +1,10 @@
+* herodotus
+
+A Common Lisp json library for CLOS classes
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/HenryS1/herodotus.git   |
+| commit  | d077b77  |
+| systems | herodotus |
+|---------+-------------------------------------------|
+
