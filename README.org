@@ -8,4 +8,4 @@ A Common Lisp json library for CLOS classes
 | systems | herodotus |
 |---------+-------------------------------------------|
 
- 
+  
